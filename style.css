@@ -1,0 +1,39 @@
+/* Problem 5: */
+body {
+  font-family: Arial, sans-serif !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  background-color: #f0f0f0 !important;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+#profileContainer {
+  background-color: white;
+  width: 50%;
+  margin: 20px auto;
+  padding: 20px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Problem 6: */
+.unused-class-1,
+.unused-class-2,
+.unused-class-3 {
+  color: blue;
+  background-color: black;
+}
+
+/*Problem 7:  */
+img#largeImage {
+  width: 1200px; 
+  height: auto;
+}
+
+/* Problem 8: */
+body div#profileContainer > h2 {
+  font-size: 2em;
+}
