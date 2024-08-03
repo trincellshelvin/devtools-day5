@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function () {
       const profileContainer = document.getElementById('profileContainer');
       // Problem 9:
       for (const key in data) {
-        let para = document.createElement('p');
+        let para = document.createElement('para');
         para.innerText = `${key}: ${data[key]}`;
         profileContainer.appendChild(para);
       }
