@@ -1,8 +1,8 @@
 /* Problem 5: */
 body {
   font-family: Arial, sans-serif !important;
-  margin: 0 !important;
-  padding: 0 !important;
+  margin: 5% !important;
+  padding: 5% !important;
   background-color: #f0f0f0 !important;
 }
 
@@ -20,15 +20,11 @@ h1 {
 }
 
 /* Problem 6: */
-.unused-class-1,
-.unused-class-2,
-.unused-class-3 {
-  color: blue;
-  background-color: black;
-}
+
+
 
 /*Problem 7:  */
-img#largeImage {
+#largeImage {
   width: 1200px; 
   height: auto;
 }
