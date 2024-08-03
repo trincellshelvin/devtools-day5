@@ -30,6 +30,10 @@ h1 {
 }
 
 /* Problem 8: */
-body div#profileContainer > h2 {
+#profileContainer  {
+  width: fit-content;
+}
+
+h2 {
   font-size: 2em;
 }
